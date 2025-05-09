@@ -1,5 +1,5 @@
 # About Me:
-Hi, perkenalkan nama saya Moch. Nadhif Alkautsar. Saya seorang  mahasiswa di Politeknik Negeri Malang, jurusan Teknologi Informasi dengan program studi Sistem Informasi Bisnis. Saya memiliki minat  dalam mempelajari berbagai hal di bidang IT dan terus berusaha mengembangkan keterampilan saya.Hi! My name is Moch. Nadhif Alkautsar and I am currently studying at Polytechnic of Malang State in Information Technology. I am passionate about exploring various fields within IT and continuously learning new skills to enhance my knowledge and experience.
+Hi, perkenalkan nama saya Moch. Nadhif Alkautsar. Saya seorang  mahasiswa di Politeknik Negeri Malang, jurusan Teknologi Informasi dengan program studi Sistem Informasi Bisnis. Saya memiliki minat  dalam mempelajari berbagai hal di bidang IT dan terus berusaha mengembangkan keterampilan saya. <br><br>Hi! My name is Moch. Nadhif Alkautsar and I am currently studying at Polytechnic of Malang State in Information Technology. I am passionate about exploring various fields within IT and continuously learning new skills to enhance my knowledge and experience.
 
 
 ## 🌐 Socials:
